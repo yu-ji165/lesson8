@@ -15,9 +15,24 @@
 ![結果画像:フルスクリーンでの輪郭抽出や今までの方法を自分なりに工夫しよう](result4.png)<br>
 
 ## 2D
+Gather法で輪郭を抽出してみよう<br>
+![結果画像:Gather法で輪郭を抽出してみよう](result5.png)<br>
+
+Scatter法で輪郭を抽出してみよう<br>
+![結果画像:Scatter法で輪郭を抽出してみよう](result6.png)<br>
 
 ## spine
+spineモデルを描画する<br>
+![結果画像:spineモデルを描画する](result7.png)<br>
 
+レンダーテクスチャにもspineモデルを描画する<br>
+![結果画像:レンダーテクスチャにもspineモデルを描画する<](result8.png)<br>
+
+Gather法でspineモデルに輪郭を追加する<br>
+![結果画像:Gather法でspineモデルに輪郭を追加する](result9.png)<br>
+
+
+# 補足
 授業で作成したプロジェクトファイルをforkしたプロジェクトに上げてください。
 
 1_3D, 2_2D, 3_spineフォルダにプロジェクトのファイルを入れてください。
